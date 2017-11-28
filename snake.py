@@ -1,4 +1,4 @@
-# SNAKES GAME
+# SNAKES GAME #powtorka rtozywki ^heh heh heh
 # Use ARROW KEYS to play, SPACE BAR for pausing/resuming and Esc Key for exiting
 
 import curses
